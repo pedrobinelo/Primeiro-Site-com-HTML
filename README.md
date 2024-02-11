@@ -1,2 +1,2 @@
 # Primeiro Site com HTML
-Clínica de psiquiatria PSYCDCLINIC
+Site para a clínica de psiquiatria PSYCDCLINIC. 
